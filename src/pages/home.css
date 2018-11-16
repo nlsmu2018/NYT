@@ -1,0 +1,39 @@
+.search_box {
+    margin: 10px auto 10px auto;
+    width: 800px;
+    border: 1px solid black;
+    padding-bottom: 30px;
+}
+
+.search_title {
+    border-bottom: 1px solid black;
+    padding: 0px 10px 10px;
+}
+
+.search_input {
+    width: 90%;
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.search_button {
+    margin-top: 10px;
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 10px;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+.articles_box {
+    margin: 10px auto 10px auto;
+    width: 800px;
+    border: 1px solid black;
+}
+
+.articles_title {
+    border-bottom: 1px solid black;
+    padding: 0px 10px 10px;
+}
